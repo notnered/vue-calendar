@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+## 📅 Vue 3 Календарь
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Компонент календаря на Vue 3 (Composition API).
+Функции:
+- Переключение месяцев
+- Выбор даты с событием date-selected
+- Инициализация начальной даты (YYYY-MM-DD)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### ✅ Установка и запуск
+git clone https://github.com/notnered/vue-calendar.git
+cd vue-calendar
+npm install
+npm run dev

@@ -7,7 +7,9 @@
 - Инициализация начальной даты (YYYY-MM-DD)
 
 ### ✅ Установка и запуск
+```bash
 git clone https://github.com/notnered/vue-calendar.git
 cd vue-calendar
 npm install
 npm run dev
+```
